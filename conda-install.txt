@@ -1,0 +1,7 @@
+# Step 1: Create a new environment called assistant:
+
+conda create -n assistant python=3.11 openai python-dotenv
+
+# Step 2: Activate the environment:
+
+conda activate assistant
